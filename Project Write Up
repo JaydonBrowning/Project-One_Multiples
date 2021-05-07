@@ -1,0 +1,4 @@
+# Project-One_Multiples
+This project was inspired by an edabit problem that i saw. The pupose of the project was to create a function that would take two values, 'Num' and 'Length', and then list the multiples of Num length times. once I had written some code that worked I wanted to condense it down to only one line to speed up the execution of my code so i used a code timer to see how fast my code would run and then attemted to make it faster and more condensed. This was all so i could learn to make my code smaller and faster to save memory which isnt a problem for such a small function, but is still a good habit to learn for coding.
+
+My Finished Code Is In The Code Tab.
